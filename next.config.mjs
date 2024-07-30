@@ -10,6 +10,14 @@ const nextConfig = {
                 protocol: "https",
                 hostname:"i.pinimg.com",
             },
+            {
+                protocol: "https",
+                hostname:"w7.pngwing.com",
+            },
+            {
+                protocol: "https",
+                hostname:"www.discover.com",
+            },
         ],
     },
 };
